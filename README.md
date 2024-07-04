@@ -1,3 +1,11 @@
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
+
 <!--
   * browser: architecture-decision-record
   * tracker: 2bd6622ec3beeeddd8ff55cf0ccf2efc
