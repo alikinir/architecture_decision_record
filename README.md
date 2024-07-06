@@ -1,10 +1,3 @@
-```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
-```
 
 <!--
   * browser: architecture-decision-record
